@@ -194,16 +194,16 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-[Insert your license type, e.g., MIT, Apache 2.0]
-
+[ MIT Lisence ]
+ 
 ---
 
 ## 👤 Author
 
-**[Your Name]**
+**[Lavishka Bhardwaj]**
 - GitHub: [@lavishka22](https://github.com/lavishka22)
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [lavishkabhardwaj376@gmail.com]
+- LinkedIn: [www.linkedin.com/in/lavishka-bhardwaj-625154322]
 
 ---
 
@@ -211,15 +211,14 @@ Contributions are welcome! To contribute:
 
 For questions, issues, or feedback:
 - Open a GitHub Issue
-- Contact via email: [your-email@example.com]
+- Contact via email: [lavishkabhardwaj376@gmail.com]
 - Check existing documentation in the `/documentation` folder
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Data sourced from [insert source]
-- Inspired by [relevant projects/resources]
+- Data sourced from [https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download]
 - Built with modern BI best practices
 
 ---
