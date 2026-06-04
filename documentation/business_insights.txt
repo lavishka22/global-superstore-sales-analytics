@@ -1,0 +1,21 @@
+# Business Insights – Global Superstore Sales Analytics
+
+• The Technology category generated the highest overall revenue among all product categories, indicating strong customer demand for technology products.
+
+• APAC and EU markets contributed a major share of total global sales, highlighting strong international business performance.
+
+• Apple Smart Phone and Cisco Smart Phone products were among the highest revenue-generating products across the dataset.
+
+• Several high-revenue products showed relatively lower profitability, suggesting potential opportunities for pricing optimization or cost reduction.
+
+• The Consumer segment contributed the largest portion of customer revenue compared to Corporate and Home Office segments.
+
+• Top customers such as Tom Ashbrook and Tamara Chand generated significantly higher revenue than the average customer base.
+
+• The overall business achieved a healthy profit margin of approximately 11.6% across 50,000+ retail transactions.
+
+• Geographic analysis revealed that countries such as the United States, India, and China contributed significantly to total sales and profit.
+
+• Customer profitability analysis identified high-value customers with strong revenue and profit contribution, helping support customer targeting strategies.
+
+• Product analytics highlighted that certain sub-categories generated high sales volume but comparatively lower profit margins, indicating areas for business optimization.
